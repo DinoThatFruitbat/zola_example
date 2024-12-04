@@ -24,5 +24,5 @@ toc = true
 
 ---------------------------
 
-# *Moimoimoi*[^1]
-## édition patate[^2]
+[^1]:# *Moimoimoi*
+[^2]:## édition patate
