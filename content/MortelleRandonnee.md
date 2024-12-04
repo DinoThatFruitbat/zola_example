@@ -11,7 +11,7 @@ tags = ["Esquive les flèches ou meurs pour l'éternité et au-delà!"]
 toc = true
 +++
 
-![biobanner](http://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
+![biobanner](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
 
 
 | En-tête 1		|En-tête 2		|En-tête 3		|
@@ -20,3 +20,9 @@ toc = true
 
 
 
+**Référence bibliographique**
+
+---------------------------
+
+#*Moimoimoi*
+##édition patate
