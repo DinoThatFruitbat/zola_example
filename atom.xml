@@ -297,7 +297,7 @@
         <link rel="alternate" type="text/html" href="https://DinoThatFruitbat.github.io/zola_example/mortellerandonnee/"/>
         <id>https://DinoThatFruitbat.github.io/zola_example/mortellerandonnee/</id>
         
-        <content type="html" xml:base="https://DinoThatFruitbat.github.io/zola_example/mortellerandonnee/">&lt;p&gt;![biobanner]https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://DinoThatFruitbat.github.io/zola_example/mortellerandonnee/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;biobanner&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;En-tête 1&lt;&#x2F;th&gt;&lt;th&gt;En-tête 2&lt;&#x2F;th&gt;&lt;th&gt;En-tête 3&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;ducontenuducontenu&lt;&#x2F;td&gt;&lt;td&gt;infoinfo&lt;&#x2F;td&gt;&lt;td&gt;rienrien&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
